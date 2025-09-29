@@ -11,7 +11,7 @@ public class HomeWork2_3 {
             }
         }       
         System.out.println("\n總共有 " + count + " 個數字");
-        
+        System.out.println("列印一個倒三角形數字為1~10");
         for (int i = 10; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(j);
